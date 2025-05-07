@@ -5,5 +5,6 @@ public class HelloUser {
 
         // Display greeting
         System.out.println("Hello, " + name + "! Welcome!");
+	System.out.println("Welcome to CDAC!");
     }
 }
